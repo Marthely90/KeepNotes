@@ -1,3 +1,0 @@
-#to get the complet path of a file, this works also for a folder
-  readlink -f file.ext
-  realpath file.txt
